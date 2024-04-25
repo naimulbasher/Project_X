@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <!-- Load the static template tag -->
+    {% load static %}
+    <!-- Link to your login.css file -->
+    <link rel="stylesheet" type="text/css" href="{% static 'login.css' %}">
+</head>
+<body>
+
+<div class="center-content"> <!-- Center the content -->
+    {% block error %}
+    <div class="form-group">
+        {{ error }}
+    </div>
+    {% endblock %}
+
+    {% block content %}
+    <div class="form-container">
+        <h2>Please Enter Your Information</h2> <!-- Title added here -->
+        <form method="POST">
+            {% csrf_token %}
+            <fieldset class="form-group">
+                <label for="username">Username</label>
+                <input required name="username" class="input-field">
+            </fieldset>
+            <fieldset class="form-group">
+                <label for="password">Password</label>
+                <input required type="password" name="password" class="input-field">
+            </fieldset>
+            <button class="submit-button">Submit</button>
+        </form>
+        <div class="additional-links">
+            <a href="{% url 'signup' %}" class="create-account-link">Create account</a>
+            <p><a href="{% url 'password_reset' %}" class="forgot-password-link">Forgotten your password?</a></p>
+        </div>
+    </div>
+    {% endblock %}
+</div>
+
+</body>
+</html>
