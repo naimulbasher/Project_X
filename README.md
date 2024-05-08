@@ -81,9 +81,7 @@ Start the server
 
 ## Screenshots
 
-![1](https://github.com/naimulbasher/Project_X/assets/86768651/3bc1dd78-0c5a-47bc-89ff-a37c90c30ff6)
-
-![2](https://github.com/naimulbasher/Project_X/assets/86768651/d46ec3a5-b76f-4bc3-9e4c-0dafea49c4d2)
+![1](https://github.com/naimulbasher/Project_X/assets/86768651/3bc1dd78-0c5a-47bc-89ff-a37c90c30ff6) ![2](https://github.com/naimulbasher/Project_X/assets/86768651/d46ec3a5-b76f-4bc3-9e4c-0dafea49c4d2)
 
 ![3](https://github.com/naimulbasher/Project_X/assets/86768651/fab816f7-98b7-4985-8031-8b295dde5c26)
 
