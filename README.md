@@ -81,13 +81,20 @@ Start the server
 
 ## Screenshots
 
-![1](https://github.com/naimulbasher/Project_X/assets/86768651/3bc1dd78-0c5a-47bc-89ff-a37c90c30ff6) ![2](https://github.com/naimulbasher/Project_X/assets/86768651/d46ec3a5-b76f-4bc3-9e4c-0dafea49c4d2)
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="[/bracealround/Result_Processing_System_RPS/blob/main/img/Admin_Login.PNG](https://github.com/naimulbasher/Project_X/assets/86768651/3bc1dd78-0c5a-47bc-89ff-a37c90c30ff6)"><img src="[/bracealround/Result_Processing_System_RPS/raw/main/img/Admin_Login.PNG](https://github.com/naimulbasher/Project_X/assets/86768651/3bc1dd78-0c5a-47bc-89ff-a37c90c30ff6)" width="250" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="/bracealround/Result_Processing_System_RPS/blob/main/img/Admin.PNG"><img src="/bracealround/Result_Processing_System_RPS/raw/main/img/Admin.PNG" width="250" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="/bracealround/Result_Processing_System_RPS/blob/main/img/Admin_Enrollment.PNG"><img src="/bracealround/Result_Processing_System_RPS/raw/main/img/Admin_Enrollment.PNG" width="250" style="max-width: 100%;"></a>
+</p>
 
+
+![1](https://github.com/naimulbasher/Project_X/assets/86768651/3bc1dd78-0c5a-47bc-89ff-a37c90c30ff6) 
+![2](https://github.com/naimulbasher/Project_X/assets/86768651/d46ec3a5-b76f-4bc3-9e4c-0dafea49c4d2)
 ![3](https://github.com/naimulbasher/Project_X/assets/86768651/fab816f7-98b7-4985-8031-8b295dde5c26)
-
 ![4](https://github.com/naimulbasher/Project_X/assets/86768651/172d0acd-0d77-4864-906c-c005a8115ecf)
-
 ![5](https://github.com/naimulbasher/Project_X/assets/86768651/49f71f2c-d924-4838-bea6-fef914e0efb9)
+
+
 
 
 
