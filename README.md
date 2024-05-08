@@ -95,6 +95,15 @@ Start the server
 </table>
 
 
+## Authors
+
+- [@naimul](https://github.com/naimulbasher)
+- [@mashru](https://github.com/Mashruuu)
+- [@arpita](https://github.com/Arpitadebnath408)
+- [@eyasin](https://github.com/easajib43)
+- [@ahnaf](https://github.com/tahmidf99)
+
+
 
 
 
