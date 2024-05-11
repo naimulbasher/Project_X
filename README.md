@@ -90,10 +90,9 @@ Start the server
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/naimulbasher/Project_X/assets/86768651/172d0acd-0d77-4864-906c-c005a8115ecf" alt="4" width="300"/></td>
-    <td><img src="https://github.com/naimulbasher/Project_X/assets/86768651/49f71f2c-d924-4838-bea6-fef914e0efb9" alt="5" width="300"/></td>
+    <td><img src="https://github.com/naimulbasher/Project_X/assets/86768651/4e26bf83-b9a7-4f33-a536-8c59bf90baea" alt="4" width="300"/></td>
+    <td><img src="https://github.com/naimulbasher/Project_X/assets/86768651/f8d77739-2486-4876-8bb0-a5ec12ab4042" alt="5" width="300"/></td>
 </table>
-
 
 ## Authors
 
